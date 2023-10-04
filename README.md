@@ -8,3 +8,4 @@
 
 - Mỗi người tạo 1 folder riêng để chứa nguyên file html. Folder để tên của mình (vd: hoang_minh_tu_html).
 
+- Hello
